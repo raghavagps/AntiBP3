@@ -70,7 +70,7 @@ Optional arguments:
 
 **Threshold:** User should provide a threshold between 0 and 1; by default, 0.5 for GP ABPs, 0.45 for GN ABPs and 0.51 for GV ABPs
 
-**Window length**: User can choose any pattern length between 8 and 20 in long sequences. This option is available for only scanning module.
+**Window length**: User can choose any pattern length between 8 and 20 in long sequences. This option is available for only protein scan module.
 
 **e-value:** User is allowed to choose an e-value for Blast search between  0.0001 to 1e-20; by default, 0.01 for GP ABPs, 0.01 for GN ABPs and 0.001 for GV ABPs
 
