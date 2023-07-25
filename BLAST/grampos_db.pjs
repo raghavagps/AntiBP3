@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "grampos_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "grmpos.fasta",
+  "number-of-letters": 37343,
+  "number-of-sequences": 1488,
+  "last-updated": "2023-03-17T10:37:00",
+  "number-of-volumes": 1,
+  "bytes-total": 226488,
+  "bytes-to-cache": 50832,
+  "files": [
+    "grampos_db.pdb",
+    "grampos_db.phr",
+    "grampos_db.pin",
+    "grampos_db.pot",
+    "grampos_db.psq",
+    "grampos_db.ptf",
+    "grampos_db.pto"
+  ]
+}

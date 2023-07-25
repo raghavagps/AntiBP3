@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "gramvariable_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "both.fasta",
+  "number-of-letters": 343947,
+  "number-of-sequences": 14376,
+  "last-updated": "2023-06-15T12:24:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1866496,
+  "bytes-to-cache": 473436,
+  "files": [
+    "gramvariable_db.pdb",
+    "gramvariable_db.phr",
+    "gramvariable_db.pin",
+    "gramvariable_db.pot",
+    "gramvariable_db.psq",
+    "gramvariable_db.ptf",
+    "gramvariable_db.pto"
+  ]
+}
