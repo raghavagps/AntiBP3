@@ -4,6 +4,16 @@ A tool for predicting and designing Antibacterial peptides for three groups of b
 Antibacterial peptides (ABPs) are specific cationic AMPs against various bacterial species that disturb the bacterial cell membrane with different mechanisms. The ABPs can also hamper intracellular processes of the bacterial pathogen in different ways, such as modulating the enzymatic activity, protein degradation & synthesis and nucleic acid synthesis, which gives an advantage over traditional antibiotics in developing resistance. Hence, develop an Antibacterial prediction tool for gram-positive, gram-negative and gram-variable bacteria.
 AntiBP3 is also available as a web server at https://webs.iiitd.edu.in/raghava/antibp3. Please read/cite the content about the AntiBP3 for complete information, including the algorithm behind the approach.
 
+## Pip installation
+The pip version of AntiBP3 is also available for easy installation and usage of the tool. The following command is required to install the package 
+```
+pip install antibp3
+```
+To know about the available option for the pip package, type the following command:
+```
+antibp3 -h
+```
+
 ## Standalone
 The Standalone version of AntiBP3 is written in python3, and the following libraries are necessary for the successful run:
 - scikit-learn
