@@ -6,6 +6,9 @@ AntiBP3 is also available as a web server at https://webs.iiitd.edu.in/raghava/a
 ## Reference
 Bajiya N, Choudhury S, Dhall A, Raghava GPS. AntiBP3: A hybrid method for predicting antibacterial peptides against gram-positive/negative/variable bacteria. <a href="https://europepmc.org/article/PPR/PPR697637">https://doi.org/10.3390/antibiotics13020168</a>.
 
+## AntiBP3_dataset folder
+Contain all the dataset
+
 ## Pip installation
 The pip version of AntiBP3 is also available for easy installation and usage of the tool. The following command is required to install the package 
 ```
