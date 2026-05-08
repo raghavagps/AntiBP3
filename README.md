@@ -5,7 +5,8 @@ Antibacterial peptides (ABPs) are specific cationic AMPs against various bacteri
 AntiBP3 is also available as a web server at https://webs.iiitd.edu.in/raghava/antibp3. Please read/cite the content about the AntiBP3 for complete information, including the algorithm behind the approach.
 ## Reference
 Bajiya N, Choudhury S, Dhall A, Raghava GPS. AntiBP3: A hybrid method for predicting antibacterial peptides against gram-positive/negative/variable bacteria. <a href="https://europepmc.org/article/PPR/PPR697637">https://doi.org/10.3390/antibiotics13020168</a>.
-
+## Zenodo
+https://doi.org/10.5281/zenodo.19911031
 ## AntiBP3_dataset folder
 Contain all the dataset
 
